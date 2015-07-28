@@ -1,0 +1,428 @@
+Topic number : 1
+[sosy],Concept Name : Coffee ground emesis
+,Preferred Name : Coffee ground vomiting
+[sosy],Concept Name : Coffee ground emesis
+,Preferred Name : Coffee ground vomiting
+[sosy],Concept Name : Coffee ground emesis
+,Preferred Name : Coffee ground vomiting
+[sosy],Concept Name : Coffee ground emesis
+,Preferred Name : Coffee ground vomiting
+[sosy],Concept Name : Coffee ground emesis
+,Preferred Name : Coffee ground vomiting
+[sosy],Concept Name : Coffee ground emesis
+,Preferred Name : Coffee ground vomiting
+[sosy],Concept Name : clammy
+,Preferred Name : Clammy skin
+[bpoc],Concept Name : Extremities
+,Preferred Name : Limb structure
+[sosy],Concept Name : clammy
+,Preferred Name : Clammy skin
+[bpoc],Concept Name : extremities
+,Preferred Name : All extremities
+Topic number : 2
+[sosy],Concept Name : Cough
+,Preferred Name : Coughing
+[diap, topp],Concept Name : bronchoalveolar lavage
+,Preferred Name : Bronchial Lavage
+[diap],Concept Name : broncho-alveolar lavage
+,Preferred Name : Bronchoscopic irrigation
+[diap, topp],Concept Name : Bronchoalveolar Lavage
+,Preferred Name : Bronchoalveolar Lavage
+Topic number : 3
+[sosy],Concept Name : Dyspnea
+,Preferred Name : Dyspnea
+[sosy],Concept Name : Dyspnea
+,Preferred Name : Dyspnea
+[sosy],Concept Name : Tachypnea
+,Preferred Name : Tachypnea
+[sosy],Concept Name : Chest Pain
+,Preferred Name : Chest Pain
+[sosy],Concept Name : Pain in calf
+,Preferred Name : Pain in calf
+Topic number : 4
+[sosy],Concept Name : Acute chest pain
+,Preferred Name : Acute chest pain
+[sosy],Concept Name : Acute chest pain
+,Preferred Name : Acute chest pain
+[dsyn],Concept Name : Hypertension
+,Preferred Name : Hypertensive disease
+[dsyn],Concept Name : Sinus Tachycardia
+,Preferred Name : Sinus Tachycardia
+[diap],Concept Name : Coronary angiography
+,Preferred Name : Coronary angiography
+[diap],Concept Name : Coronary angiography
+,Preferred Name : Coronary angiography
+[diap],Concept Name : ventriculography
+,Preferred Name : Cerebral Ventriculography
+[diap],Concept Name : ventriculography
+,Preferred Name : Cardiac ventriculography
+Topic number : 5
+[dsyn],Concept Name : Joint inflammation
+,Preferred Name : Arthritis
+Topic number : 6
+[dsyn],Concept Name : Exophthalmia
+,Preferred Name : Exophthalmos
+Topic number : 7
+[sosy],Concept Name : Fatigue
+,Preferred Name : Fatigue
+Topic number : 8
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[dsyn],Concept Name : Failure to Thrive
+,Preferred Name : Failure to Thrive
+[sosy],Concept Name : Snores
+,Preferred Name : Snoring
+[aapp, bacs, phsu],Concept Name : His
+,Preferred Name : Histidine
+[aapp, bacs, phsu],Concept Name : His
+,Preferred Name : Histidine
+[aapp, bacs, phsu],Concept Name : His
+,Preferred Name : Histidine
+[aapp, bacs, phsu],Concept Name : His
+,Preferred Name : Histidine
+[sosy],Concept Name : gasps
+,Preferred Name : Gasping for breath
+[aapp, bacs, phsu],Concept Name : His
+,Preferred Name : Histidine
+[sosy],Concept Name : gasps
+,Preferred Name : Gasping for breath
+Topic number : 9
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[orch, phsu],Concept Name : A-10
+,Preferred Name : antineoplaston A10
+[sosy],Concept Name : Myalgia
+,Preferred Name : Myalgia
+[dsyn],Concept Name : Eosinophilia
+,Preferred Name : Eosinophilia
+[dsyn],Concept Name : Eosinophilia
+,Preferred Name : Eosinophilic disorder
+[dsyn],Concept Name : Eosinophilia
+,Preferred Name : Disorder characterized by eosinophilia
+Topic number : 10
+[sosy],Concept Name : Menometrorrhagia
+,Preferred Name : Intermenstrual heavy bleeding
+[dsyn],Concept Name : Ectopic Pregnancy
+,Preferred Name : Ectopic Pregnancy
+Topic number : 11
+[dsyn],Concept Name : Cold
+,Preferred Name : Common Cold
+[sosy],Concept Name : Fatigue
+,Preferred Name : Fatigue
+[sosy],Concept Name : Constipation
+,Preferred Name : Constipation
+[sosy],Concept Name : Dry skin
+,Preferred Name : Dry skin
+Topic number : 12
+[sosy],Concept Name : HEADACHE, SEVERE
+,Preferred Name : Headache Severe
+[sosy],Concept Name : Nuchal Rigidity
+,Preferred Name : Nuchal Rigidity
+Topic number : 13
+[sosy],Concept Name : Stridor
+,Preferred Name : Stridor
+[sosy],Concept Name : Drooling
+,Preferred Name : Drooling
+[dsyn],Concept Name : Dysphagia
+,Preferred Name : Deglutition Disorders
+[sosy],Concept Name : voice change
+,Preferred Name : Change in voice (finding)
+Topic number : 14
+[dsyn],Concept Name : Anaemia
+,Preferred Name : Anemia
+[bacs, elii, phsu],Concept Name : Iron
+,Preferred Name : Iron
+[phsu],Concept Name : iron
+,Preferred Name : Ferrum metallicum, Homeopathic preparation
+Topic number : 15
+[dsyn],Concept Name : Type 2 Diabetes
+,Preferred Name : Diabetes Mellitus, Non-Insulin-Dependent
+[dsyn],Concept Name : Stroke
+,Preferred Name : Cerebrovascular accident
+[sosy],Concept Name : Shortness of Breath
+,Preferred Name : Dyspnea
+Topic number : 16
+[sosy],Concept Name : Wheezing
+,Preferred Name : Wheezing
+[sosy],Concept Name : Wheezing
+,Preferred Name : Wheezing
+Topic number : 17
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[diap],Concept Name : Screening
+,Preferred Name : Disease Screening
+[virs],Concept Name : Human Papillomavirus
+,Preferred Name : Human Papillomavirus
+[virs],Concept Name : Human Papillomavirus
+,Preferred Name : Human Papillomavirus
+[virs],Concept Name : Human Papillomavirus
+,Preferred Name : Human Papillomavirus
+[virs],Concept Name : Human Papillomavirus
+,Preferred Name : Human Papillomavirus
+[diap],Concept Name : pap smears
+,Preferred Name : Pap smear
+[diap],Concept Name : pap smears
+,Preferred Name : Pap smear
+[diap],Concept Name : pap smears
+,Preferred Name : Pap smear
+Topic number : 18
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[aapp, phsu],Concept Name : A-65
+,Preferred Name : A-65
+[sosy],Concept Name : EXTREMITY EDEMA, LOWER
+,Preferred Name : Edema of lower extremity
+[sosy],Concept Name : lower extremity oedema
+,Preferred Name : Swollen legs
+[sosy],Concept Name : EXTREMITY EDEMA, LOWER
+,Preferred Name : Edema of lower extremity
+[sosy],Concept Name : lower extremity oedema
+,Preferred Name : Swollen legs
+[bpoc],Concept Name : LUNGS
+,Preferred Name : Lung
+[sosy],Concept Name : Crackle
+,Preferred Name : Rales
+Topic number : 19
+[sosy],Concept Name : Dyspnea
+,Preferred Name : Dyspnea
+[sosy],Concept Name : Dyspnea
+,Preferred Name : Dyspnea
+[sosy],Concept Name : Dyspnea
+,Preferred Name : Dyspnea
+[sosy],Concept Name : Dyspnea
+,Preferred Name : Dyspnea
+[sosy],Concept Name : Dyspnea
+,Preferred Name : Dyspnea
+[sosy],Concept Name : Dyspnea
+,Preferred Name : Dyspnea
+[sosy],Concept Name : Productive cough
+,Preferred Name : Productive cough
+[sosy],Concept Name : Respiratory distress
+,Preferred Name : Respiratory distress
+[sosy],Concept Name : Respiratory distress
+,Preferred Name : Respiratory distress
+Topic number : 20
+[sosy],Concept Name : Myoclonic jerks
+,Preferred Name : Myoclonus
+Topic number : 21
+[sosy],Concept Name : Diarrhea
+,Preferred Name : Diarrhea
+[sosy],Concept Name : Diarrhea
+,Preferred Name : Diarrhea
+[diap],Concept Name : Smear
+,Preferred Name : Smear test
+Topic number : 22
+[sosy],Concept Name : Productive cough
+,Preferred Name : Productive cough
+[diap],Concept Name : Chest X-ray
+,Preferred Name : Chest X-ray
+[dsyn],Concept Name : cavity
+,Preferred Name : Dental caries
+[dsyn],Concept Name : cavity
+,Preferred Name : Dental caries
+[dsyn],Concept Name : cavity
+,Preferred Name : Dental caries
+[bpoc],Concept Name : Lung
+,Preferred Name : Lung
+[bpoc],Concept Name : Lung
+,Preferred Name : Entire lung
+Topic number : 23
+[sosy],Concept Name : HEADACHE, SEVERE
+,Preferred Name : Headache Severe
+[sosy],Concept Name : Joint Pain
+,Preferred Name : Arthralgia
+[dsyn],Concept Name : Leucopenia
+,Preferred Name : Leukopenia
+Topic number : 24
+[sosy],Concept Name : Productive cough
+,Preferred Name : Productive cough
+[sosy],Concept Name : Productive cough
+,Preferred Name : Productive cough
+[sosy],Concept Name : Chest Pain
+,Preferred Name : Chest Pain
+[sosy],Concept Name : Chills
+,Preferred Name : Chills
+[sosy],Concept Name : Wheezing
+,Preferred Name : Wheezing
+[diap],Concept Name : Percussion
+,Preferred Name : Percussion
+[diap],Concept Name : Percussion
+,Preferred Name : Dental Percussion Procedure
+Topic number : 25
+[bpoc],Concept Name : Right knee
+,Preferred Name : Structure of right knee
+[bpoc],Concept Name : Right knee
+,Preferred Name : Entire right knee
+[bpoc],Concept Name : Right knee
+,Preferred Name : Structure of right knee
+[bpoc],Concept Name : Right knee
+,Preferred Name : Entire right knee
+[sosy],Concept Name : left leg pain
+,Preferred Name : Pain in left leg
+[sosy],Concept Name : Lethargy
+,Preferred Name : Lethargy
+Topic number : 26
+[dsyn],Concept Name : Obese
+,Preferred Name : Obesity
+[dsyn],Concept Name : Ruptured ectopic pregnancy
+,Preferred Name : Ruptured ectopic pregnancy
+[dsyn],Concept Name : Obese
+,Preferred Name : Obesity
+[dsyn],Concept Name : Ruptured ectopic pregnancy
+,Preferred Name : Ruptured ectopic pregnancy
+[dsyn],Concept Name : Obese
+,Preferred Name : Obesity
+[dsyn],Concept Name : Ruptured ectopic pregnancy
+,Preferred Name : Ruptured ectopic pregnancy
+[dsyn],Concept Name : Obese
+,Preferred Name : Obesity
+[dsyn],Concept Name : Ruptured ectopic pregnancy
+,Preferred Name : Ruptured ectopic pregnancy
+[dsyn],Concept Name : Obese
+,Preferred Name : Obesity
+[dsyn],Concept Name : Ruptured ectopic pregnancy
+,Preferred Name : Ruptured ectopic pregnancy
+Topic number : 27
+[sosy],Concept Name : Fatigue
+,Preferred Name : Fatigue
+[sosy],Concept Name : pale skin
+,Preferred Name : Pallor
+[aapp, bacs, phsu],Concept Name : Ferritin
+,Preferred Name : Ferritin
+Topic number : 28
+[bpoc],Concept Name : Right knee
+,Preferred Name : Structure of right knee
+[bpoc],Concept Name : Right knee
+,Preferred Name : Entire right knee
+[bpoc],Concept Name : Right knee
+,Preferred Name : Structure of right knee
+[bpoc],Concept Name : Right knee
+,Preferred Name : Entire right knee
+[sosy],Concept Name : Lower extremity pain
+,Preferred Name : Lower extremity pain
+Topic number : 29
+[dsyn],Concept Name : Skin Rash
+,Preferred Name : Exanthema
+[dsyn],Concept Name : Strawberry tongue
+,Preferred Name : Strawberry tongue
+[dsyn],Concept Name : Conjunctivitis
+,Preferred Name : Conjunctivitis
+Topic number : 30
+[aapp, bacs, phsu],Concept Name : His
+,Preferred Name : Histidine
+[bpoc],Concept Name : Left arm
+,Preferred Name : Left upper arm structure
+[aapp, bacs, phsu],Concept Name : His
+,Preferred Name : Histidine
+[bpoc],Concept Name : Left arm
+,Preferred Name : Entire left upper arm
+[bpoc],Concept Name : Left arm
+,Preferred Name : Left upper arm structure
+[bpoc],Concept Name : Left arm
+,Preferred Name : Entire left upper arm
+[aapp, bacs, phsu],Concept Name : His
+,Preferred Name : Histidine
+[bpoc],Concept Name : Left arm
+,Preferred Name : Left upper arm structure
+[aapp, bacs, phsu],Concept Name : His
+,Preferred Name : Histidine
+[bpoc],Concept Name : Left arm
+,Preferred Name : Entire left upper arm
+[bpoc],Concept Name : Left arm
+,Preferred Name : Left upper arm structure
+[bpoc],Concept Name : Left arm
+,Preferred Name : Entire left upper arm
+[sosy],Concept Name : Pain
+,Preferred Name : Pain
+[sosy],Concept Name : Pain
+,Preferred Name : Pain
+[dsyn],Concept Name : bend
+,Preferred Name : Decompression Sickness
+[bpoc],Concept Name : Arm
+,Preferred Name : Entire upper limb
+[diap],Concept Name : X-ray, NOS
+,Preferred Name : Diagnostic radiologic examination
+[diap],Concept Name : X-ray
+,Preferred Name : Plain x-ray
+[diap],Concept Name : X-ray
+,Preferred Name : Radiographic imaging procedure
+[bpoc],Concept Name : Elbow
+,Preferred Name : Entire elbow region

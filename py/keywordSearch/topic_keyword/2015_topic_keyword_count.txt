@@ -1,0 +1,60 @@
+1 : crystalloid crystalloid solutions extremities limb structure extremities all extremities vomiting vomiting
+605638
+2 : non-productive cough dry cough work-up work-up bronchoscopy with bronchoalveolar lavage bronchoscopic irrigation prednisone prednisone eye entire eye infection  nos communicable diseases
+688283
+3 : shortness of breath dyspnea tachypnea tachypnea calf pain pain in calf a-65 a-65 pain pain left sided chest pain left sided chest pain
+721225
+4 : renal insufficiency  chronic chronic kidney insufficiency chronic renal insufficiency kidney failure  chronic right coronary angiography right coronary arteriography disease disease sinus tachycardia sinus tachycardia v3 anterior bronchopulmonary segment of superior pulmonary vein ekg electrocardiography v2 posterior segmental vein v1 apical segmental vein air air substernal chest pain retrosternal pain renal artery stenosis renal artery stenosis chest radiograph chest x-ray jaw mandible shortness of breath dyspnea hypercholesterolaemia hypercholesterolemia transthoracic echocardiogram transthoracic echocardiography hypokinesis hypokinesia left ventriculography left ventriculogram osteoporosis osteoporosis hypertension hypertensive disease chest pain chest pain
+714864
+5 : joint pain arthralgia intermittent fevers intermittent fever knees stiffness knee stiff right ankle entire right ankle chest pain chest pain fatigue fatigue hips hip region structure right elbow entire right elbow region pain pain
+508760
+6 : exophthalmia exophthalmos hands hand heart entire heart insomnia sleeplessness diarrhea diarrhea
+333742
+7 : thyroid-stimulating hormone thyrotropin thyroid stimulating hormone thyroid stimulating hormone  epc  fatigue fatigue increased sleep hypersomnia
+430026
+8 : excessive sleepiness hypersomnia snoring snoring his histidine a-10 antineoplaston a10 night time restlessness nocturnal restlessness  finding
+698198
+9 : otc drugs  non-prescription viral illness virus diseases his histidine shortness of breath dyspnea cyanosis cyanosis neck stiffness neck stiffness cough coughing periorbital edema periorbital edema otc medications drugs  non-prescription a-10 antineoplaston a10 abdominal pain abdominal pain myalgia myalgia marked edema massive edema diarrhea diarrhea
+717647
+10 : pelvic pain  nos pelvic pain female pelvic pain pelvic pain
+189950
+11 : dry skin dry skin sensitive to cold cold intolerance decreased appetite decrease in appetite constipation constipation tired tired
+713109
+12 : nose dripping rhinorrhea headache  severe headache severe nuchal rigidity nuchal rigidity his histidine
+242845
+13 : dysphagia deglutition disorders vaccines vaccines his histidine drooling drooling
+188209
+14 : iron ferrum metallicum  homeopathic preparation difficulty swallowing deglutition disorders iron deficiency iron deficiency electrolytes electrolyte  epc  iron iron urea urea
+265144
+15 : angiogram angiogram hypertension hypertensive disease shortness of breath dyspnea 12 lead electrocardiogram 12 lead ecg stroke cerebrovascular accident symptoms symptoms brain entire brain angiogram lymphangiography stopping stop brand of fluoride chest pain chest pain great vessels entire great blood vessel  organ  great vessels  nos structure of great blood vessel  organ  computed tomography x-ray computed tomography transesophageal echocardiogram echocardiography  transesophageal type 2 diabetes diabetes mellitus  non-insulin-dependent
+716570
+16 : air air sats short-acting thyroid stimulator allergic rhinitis allergic rhinitis  disorder  o2 oxygen wheezing wheezing coughing coughing
+362137
+17 : hpv human papillomavirus
+310598
+18 : shortness of breath dyspnea lung entire lung difficulty breathing dyspnea crackle rales a-65 a-65
+717163
+19 : shortness of breath dyspnea chronic cough chronic cough neck entire neck respiratory distress respiratory distress neck veins structure of vein of neck expiratory wheeze expiratory wheezing
+715051
+20 : arm entire upper limb rigidity  nos muscle rigidity spell spells  neurological symptom  myoclonic jerks myoclonus perform perform face entire face
+393804
+21 : grease grease flatulence flatulence cysts cyst water water malaise malaise abdominal cramping abdominal cramps loss of appetite anorexia he helium smear smear test iodine iodine  homeopathic preparation iodine iodine diarrhea diarrhea
+714330
+22 : mass mass of body region x ray of chest plain radiography of chest imaging imaging techniques left upper lobe structure of left upper lobe of lung x-ray of chest nos chest x-ray productive cough productive cough cavity dental caries
+715477
+23 : headache  severe headache severe facial flushing flushing joint pain arthralgia leucopenia leukopenia chills chills
+242009
+24 : productive cough productive cough cough coughing right sided chest pain right sided chest pain cold symptoms cold symptoms chest pain chest pain chills chills lung entire lung expiratory wheezing expiratory wheezing coughing coughing
+428684
+25 : tenderness sore to touch knee pain knee pain right knee entire right knee right thigh entire right thigh f- fluorides a-10 antineoplaston a10 pain evaluation pain measurement knee knee lethargic lethargy
+707820
+26 : right fallopian tube entire right fallopian tube obesity obesity right fallopian tube right fallopian tube ruptured ectopic pregnancy ruptured ectopic pregnancy pelvic adhesions pelvic adhesions laparoscopy laparoscopy
+348727
+27 : pale skin pallor ferritin ferritin fed fish-eye disease tired tired
+389564
+28 : right lower extremity right lower extremity limping claudication  finding  lower extremity pain lower extremity pain erythema migrans erythema migrans right knee entire right knee pain pain
+508283
+29 : strawberry tongue strawberry tongue white of eye sclera trunk entire trunk lips lip structure
+715005
+30 : his histidine capitulum of humerus structure of capitulum of humerus trochlea of humerus entire trochlea of humerus elbow entire elbow region x-ray radiographic imaging procedure left arm entire left upper arm x-ray  nos diagnostic radiologic examination arm entire upper limb bend decompression sickness radius entire radius ulna entire ulna pain pain
+715562
